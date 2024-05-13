@@ -1,0 +1,279 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="国科大卡弗里所-上科大暑期学校">
+<title>国科大卡弗里所-上科大暑期学校</title>  
+
+<link rel="stylesheet" href="kits.css"> 
+	
+
+</head>
+
+<body>  
+
+	<div class="container">
+	<!-- Top box -->
+		<!-- Logo & Site Name -->
+		<div class="placeholder">
+			<div class="parallax-window">
+				<div class="tm-header">
+					<div class="tm-header-inner">
+						<div class="col-md-6 col-12">
+							<img src="websitelogo2.png"  style="max-width: 100%;" /> 
+								 <div class="tm-site-text-box"> 
+							<!-- <h1 class="tm-site-title">KITS-Summer School: Frontiers in Theoretical High Energy Physics</h1> -->
+								
+								<!-- <h1 class="tm-site-title">国科大卡弗里所-上科大暑期学校</h1>   -->
+                                                           
+							<!--	<h6 class="tm-site-description">2023年8月6日-18日，上海科技大学</h6>   -->	
+							</div>
+						</div>
+						<nav class="col-md-6 col-12 tm-nav">
+							<ul class="tm-nav-ul">
+								<li class="tm-nav-li"><a href="index.html" class="tm-nav-link active"> 主页</a></li>
+								<li class="tm-nav-li"><a href="#spe" class="tm-nav-link" >报告人</a></li>
+								<li class="tm-nav-li"><a href="#sch" class="tm-nav-link" >会议日程</a></li>
+		                                                
+								<li class="tm-nav-li"><a href="#app" class="tm-nav-link" >申请</a></li>
+								
+								<li class="tm-nav-li"><a href="#org" class="tm-nav-link" >会议组织</a></li>
+								<li class="tm-nav-li"><a href="#con" class="tm-nav-link" >联系方式</a></li>
+						
+							</ul>
+						</nav>	
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+<main>
+
+
+	<h4 style="margin-top: 30pt;"> 简介 (About the summer school) </h4>
+
+<p class="p2" style="margin-top:-10pt;">		
+This is where we write the "About" section
+<br>
+
+<br>
+	
+This is where we write the "About" section in Chinese
+	
+<br>
+
+
+
+
+
+<br>
+	
+	
+<h4> <div id="spe">报告人 (Speakers)</div> </h4>
+
+<p style="margin-top:-10pt;">
+	
+
+	
+<h5> <div id="spe">系列报告 (Regular lectures)</div> </h5>
+<ul>
+	<li>Patrick Dorey (Durham University): Title
+	</li>
+	<li>Domenico Orlando (INFN, Turin): Title
+	</li>
+	<li>Carlos Mafra (University of Southampton): Title
+	</li>	
+	<li>Florian Loebbert (University of Bonn): Title
+	</li>
+	<li>Vasco Goncalves (University of Porto): Title
+	</li>
+	<li>Sergei Dubovsky (New York University, CCPP): Title
+	</li>
+	<li>Song He (Institute of Theoretical Physics, CAS): Title
+	</li>	
+	<li>Jie Gu (Southeast University): Title
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+ 
+ 	
+	
+	
+
+
+
+
+
+
+
+</ul>
+	
+<h5> <div id="spe">公开报告 (Public lectures)</div> </h5>
+<ul>
+	
+<li>Speaker 1: Title 1
+	</li>
+<li>Speaker 2: Title 2
+	</li>
+<li>Speaker 3: Title 3
+	</li>
+	
+	</ul>	
+	
+		
+
+		
+</p>
+
+		
+		
+		
+<br>
+
+<h4> <div id="sch">会议日程 (Schedule) </div> </h4>
+	
+<br>
+
+<p class="p2" style="margin-top:-10pt;">
+	
+	
+
+	
+		
+<br>
+		
+<br>
+
+	
+<img src="schedule.png"  width="900" > 
+
+	</ul>
+</p>
+	
+	
+<br>
+	
+</ul>
+</p>
+
+<br>
+
+<h4> <div id="app">申请 (Applying to the summer school)</div> </h4>
+	
+<br>
+
+<p class="p2" style="margin-top:-10pt;">
+
+The summer school is open for applications to advanced graduate students (must have taken courses in QFT and have some familiarity with CFTs and string theory) and postdocs. 
+Applications should be submitted via the QR code on the poster (or click <a href="https://www.wjx.cn/vm/tzzYq8z.aspx">here</a>) and should include the following materials: <br>
+1.	A brief CV (not required for faculty), <br>
+2.      A publication list of 5 representative works (if any), <br>
+3.	A recommendation letter from your advisor (not necessary for postdocs), <br>
+4.	A one-page description of your poster presentation (if you wish to present). <br>
+These materials should be combined into a single pdf file in this order. The deadline of applications is DATE GOES HERE. Successful applicants will be informed in late June. <br>
+
+<br>
+
+
+Probably the previous message in Chinese 
+	<br>
+	
+	<br>
+
+Financial support: The applicants are encouraged to have their own sources of funding to cover their expenses during the school. 
+However, students in financial difficulties may apply for support by indicating so in the application form. 
+The amount of funding is limited and can only cover a small number of students. <br>
+
+<br>
+	
+资助：一般情况下申请者须自己解决差旅与住宿的费用。对于有特别困难的学生，有一定的资助名额可以申请。
+
+
+	
+<br>
+
+<br>
+	
+<br>
+
+Public lecture registration: The public lectures can be registered separatedly by people who are not attending the summer school. 
+To register, please complete the following steps: 1) Fill in the following <a href="https://www.wjx.cn/vm/tzzYq8z.aspx"> online form</a> 2) Search on WeChat“上科大Campus” - CampUs - 访客入校 - Fill in information and dates (contact: 周卿 13564016125). You will receive a QR code for entering once your application has been approved.<br>
+
+<br>
+	
+公共报告报名：公共报告对非暑期学校参与者开放，并可以单独注册报名参加。报名方式：1）填写该<a href="https://www.wjx.cn/vm/tzzYq8z.aspx">问卷</a> 2）微信搜索“上科大Campus” - CampUs - 访客入校 - 填写个人信息&申请日期（联系人：周卿 13564016125）。审批后，可凭收到的二维码入校
+	
+<br>
+
+	
+<br>
+<h4> <div id="org">会议组织 (Summer school organization)</div> </h4>
+
+<br>
+
+<p class="p2" style="margin-top:-10pt;">
+
+Main Organizer：周稀楠 (国科大，上科大) <br>
+
+<br>
+
+
+</ul>
+	
+<h5> <div id="spe">Organizing Committee:</div> </h5>
+<ul>
+
+<li>Organizer people 1  </li> 
+<br>
+
+</ul>	
+
+
+</p>
+
+
+<br>	
+<h4> <div id="con">联系方式 (Contact us)</div> </h4>
+	
+<p class="p2" style="margin-top:-10pt;">
+	
+<br>
+
+Any questions about the school should be sent to the main organizer: zhouxn at shanghaitech.edu.cn. <br>
+
+任何关于暑期学校的问题请发送至组织者的邮箱：zhouxn at shanghaitech.edu.cn
+
+</p>
+
+
+
+	
+
+
+<br>
+
+
+	
+
+
+</main>
+
+
+
+</body>
+</html>
